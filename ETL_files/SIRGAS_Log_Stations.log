@@ -1,0 +1,808 @@
+============================================================
+            SNIT IDE Chile ETLv1.0 2026 SIRGAS V+D          
+============================================================
+Inicio: 2026-10-05 18:25:15
+
+*************************************
+ SIRGAS Station Logfile Extractor v1
+*************************************
+
+Leyendo indice SIRGAS...
+Archivos encontrados: 692
+0001/692 /archive/gps/DGF/station/log/aacr00cri_20150504.log
+0002/692 /archive/gps/DGF/station/log/ab2100usa_20251212.log
+0003/692 /archive/gps/DGF/station/log/ab4300usa_20250417.log
+0004/692 /archive/gps/DGF/station/log/abcc00col_20091015.log
+0005/692 /archive/gps/DGF/station/log/abec00ecu_20210616.log
+0006/692 /archive/gps/DGF/station/log/abmf00glp_20251205.log
+0007/692 /archive/gps/DGF/station/log/abpd00col_20220203.log
+0008/692 /archive/gps/DGF/station/log/abpw00col_20091015.log
+0009/692 /archive/gps/DGF/station/log/abra00arg_20230207.log
+0010/692 /archive/gps/DGF/station/log/ac2400usa_20260709.log
+0011/692 /archive/gps/DGF/station/log/ac4300usa_20251212.log
+0012/692 /archive/gps/DGF/station/log/ac5800usa_20250422.log
+0013/692 /archive/gps/DGF/station/log/acso00usa_20260624.log
+0014/692 /archive/gps/DGF/station/log/aepl00col_20210629.log
+0015/692 /archive/gps/DGF/station/log/agca00col_20240509.log
+0016/692 /archive/gps/DGF/station/log/aggo00arg_20230608.log
+0017/692 /archive/gps/DGF/station/log/agua00col_20150724.log
+0018/692 /archive/gps/DGF/station/log/alar00bra_20170925.log
+0019/692 /archive/gps/DGF/station/log/albe00col_20240509.log
+0020/692 /archive/gps/DGF/station/log/alec00ecu_20181112.log
+0021/692 /archive/gps/DGF/station/log/algo00can_20260401.log
+0022/692 /archive/gps/DGF/station/log/alma00bra_20231027.log
+0023/692 /archive/gps/DGF/station/log/alta00arg_20240203.log
+0024/692 /archive/gps/DGF/station/log/alum00arg_20200219.log
+0025/692 /archive/gps/DGF/station/log/am0400per_20260616.log
+0026/692 /archive/gps/DGF/station/log/ambc00bra_20190429.log
+0027/692 /archive/gps/DGF/station/log/amco00bra_20230929.log
+0028/692 /archive/gps/DGF/station/log/amcr00bra_20240902.log
+0029/692 /archive/gps/DGF/station/log/amha00bra_20240902.log
+0030/692 /archive/gps/DGF/station/log/amhu00bra_20141027.log
+0031/692 /archive/gps/DGF/station/log/ammu00bra_20180926.log
+0032/692 /archive/gps/DGF/station/log/ampr00bra_20181130.log
+0033/692 /archive/gps/DGF/station/log/ampt00bra_20240902.log
+0034/692 /archive/gps/DGF/station/log/amta00bra_20181105.log
+0035/692 /archive/gps/DGF/station/log/amte00bra_20260112.log
+0036/692 /archive/gps/DGF/station/log/amtg00bra_20190802.log
+0037/692 /archive/gps/DGF/station/log/amua00bra_20241122.log
+0038/692 /archive/gps/DGF/station/log/an0200per_20260521.log
+0039/692 /archive/gps/DGF/station/log/ands00col_20220809.log
+0040/692 /archive/gps/DGF/station/log/ango00chl_20181017.log
+0041/692 /archive/gps/DGF/station/log/antc00chl_20251022.log
+0042/692 /archive/gps/DGF/station/log/antf00chl_20220722.log
+0043/692 /archive/gps/DGF/station/log/aoml00usa_20030829.log
+0044/692 /archive/gps/DGF/station/log/ap0100per_20200513.log
+0045/692 /archive/gps/DGF/station/log/aplj00bra_20210616.log
+0046/692 /archive/gps/DGF/station/log/apma00bra_20260112.log
+0047/692 /archive/gps/DGF/station/log/aps100bra_20240802.log
+0048/692 /archive/gps/DGF/station/log/apsa00bra_20160107.log
+0049/692 /archive/gps/DGF/station/log/apto00col_20220803.log
+0050/692 /archive/gps/DGF/station/log/aq0100per_20260519.log
+0051/692 /archive/gps/DGF/station/log/arca00col_20220804.log
+0052/692 /archive/gps/DGF/station/log/arco00chl_20260407.log
+0053/692 /archive/gps/DGF/station/log/areq00per_20260317.log
+0054/692 /archive/gps/DGF/station/log/arev00per_20160314.log
+0055/692 /archive/gps/DGF/station/log/asc100shn_20101012.log
+0056/692 /archive/gps/DGF/station/log/ascg00shn_20250821.log
+0057/692 /archive/gps/DGF/station/log/aspa00usa_20260716.log
+0058/692 /archive/gps/DGF/station/log/atw200usa_20230125.log
+0059/692 /archive/gps/DGF/station/log/auca00ecu_20200101.log
+0060/692 /archive/gps/DGF/station/log/autf00arg_20220408.log
+0061/692 /archive/gps/DGF/station/log/av0900usa_20251212.log
+0062/692 /archive/gps/DGF/station/log/ay0200per_20260522.log
+0063/692 /archive/gps/DGF/station/log/azue00pan_20080521.log
+0064/692 /archive/gps/DGF/station/log/azul00arg_20260515.log
+0065/692 /archive/gps/DGF/station/log/babj00bra_20260112.log
+0066/692 /archive/gps/DGF/station/log/babr00bra_20260113.log
+0067/692 /archive/gps/DGF/station/log/baic00bra_20240802.log
+0068/692 /archive/gps/DGF/station/log/bail00bra_20210512.log
+0069/692 /archive/gps/DGF/station/log/bair00bra_20200713.log
+0070/692 /archive/gps/DGF/station/log/bait00bra_20211122.log
+0071/692 /archive/gps/DGF/station/log/bake00can_20230726.log
+0072/692 /archive/gps/DGF/station/log/bans00ven_20060906.log
+0073/692 /archive/gps/DGF/station/log/bapa00bra_20230531.log
+0074/692 /archive/gps/DGF/station/log/barb00brb_19990610.log
+0075/692 /archive/gps/DGF/station/log/bari00gtm_20120430.log
+0076/692 /archive/gps/DGF/station/log/batf00bra_20210429.log
+0077/692 /archive/gps/DGF/station/log/bavc00bra_20241219.log
+0078/692 /archive/gps/DGF/station/log/bcar00arg_20260326.log
+0079/692 /archive/gps/DGF/station/log/bch100arg_20260424.log
+0080/692 /archive/gps/DGF/station/log/bche00arg_20150819.log
+0081/692 /archive/gps/DGF/station/log/bdos00brb_20130805.log
+0082/692 /archive/gps/DGF/station/log/bece00col_20240509.log
+0083/692 /archive/gps/DGF/station/log/beja00col_20240509.log
+0084/692 /archive/gps/DGF/station/log/bele00bra_20240725.log
+0085/692 /archive/gps/DGF/station/log/bepa00bra_20230714.log
+0086/692 /archive/gps/DGF/station/log/berr00col_20220804.log
+0087/692 /archive/gps/DGF/station/log/bfny00usa_20250831.log
+0088/692 /archive/gps/DGF/station/log/bhec00ecu_20230703.log
+0089/692 /archive/gps/DGF/station/log/bjco00ben_20220317.log
+0090/692 /archive/gps/DGF/station/log/blpz00bol_20140421.log
+0091/692 /archive/gps/DGF/station/log/bnga00col_20240507.log
+0092/692 /archive/gps/DGF/station/log/boav00bra_20260109.log
+0093/692 /archive/gps/DGF/station/log/boga00col_20220804.log
+0094/692 /archive/gps/DGF/station/log/bogt00col_20250811.log
+0095/692 /archive/gps/DGF/station/log/bomj00bra_20160204.log
+0096/692 /archive/gps/DGF/station/log/bosc00col_20240507.log
+0097/692 /archive/gps/DGF/station/log/bqla00col_20240509.log
+0098/692 /archive/gps/DGF/station/log/braz00bra_20260115.log
+0099/692 /archive/gps/DGF/station/log/brbr00cri_20240824.log
+0100/692 /archive/gps/DGF/station/log/brew00usa_20260909.log
+0101/692 /archive/gps/DGF/station/log/brft00bra_20230206.log
+0102/692 /archive/gps/DGF/station/log/brmu00gbr_20250613.log
+0103/692 /archive/gps/DGF/station/log/bsuc00bol_20170525.log
+0104/692 /archive/gps/DGF/station/log/buca00col_20080118.log
+0105/692 /archive/gps/DGF/station/log/bue200arg_20100627.log
+0106/692 /archive/gps/DGF/station/log/buen00col_20220804.log
+0107/692 /archive/gps/DGF/station/log/cali00col_20220804.log
+0108/692 /archive/gps/DGF/station/log/call00per_20180523.log
+0109/692 /archive/gps/DGF/station/log/cam200mex_20130129.log
+0110/692 /archive/gps/DGF/station/log/cano00col_20190109.log
+0111/692 /archive/gps/DGF/station/log/capo00cri_20240824.log
+0112/692 /archive/gps/DGF/station/log/cart00col_20220804.log
+0113/692 /archive/gps/DGF/station/log/casi00col_20240507.log
+0114/692 /archive/gps/DGF/station/log/cata00arg_20150227.log
+0115/692 /archive/gps/DGF/station/log/catr00gtm_20150430.log
+0116/692 /archive/gps/DGF/station/log/cbmb00bol_20150406.log
+0117/692 /archive/gps/DGF/station/log/cbsb00cym_20130808.log
+0118/692 /archive/gps/DGF/station/log/ceec00ecu_20210429.log
+0119/692 /archive/gps/DGF/station/log/ceeu00bra_20221128.log
+0120/692 /archive/gps/DGF/station/log/cefe00bra_20260112.log
+0121/692 /archive/gps/DGF/station/log/ceft00bra_20230714.log
+0122/692 /archive/gps/DGF/station/log/cesb00bra_20210616.log
+0123/692 /archive/gps/DGF/station/log/cfag00arg_20121217.log
+0124/692 /archive/gps/DGF/station/log/chac00arg_20260925.log
+0125/692 /archive/gps/DGF/station/log/chec00ecu_20210429.log
+0126/692 /archive/gps/DGF/station/log/chep00pan_20161215.log
+0127/692 /archive/gps/DGF/station/log/chet00mex_20240925.log
+0128/692 /archive/gps/DGF/station/log/chih00mex_20160121.log
+0129/692 /archive/gps/DGF/station/log/chiq00gtm_20120430.log
+0130/692 /archive/gps/DGF/station/log/chis00gtm_20120430.log
+0131/692 /archive/gps/DGF/station/log/chls00cri_20240824.log
+0132/692 /archive/gps/DGF/station/log/chpi00bra_20260325.log
+0133/692 /archive/gps/DGF/station/log/chti00nzl_20251211.log
+0134/692 /archive/gps/DGF/station/log/chur00can_20251121.log
+0135/692 /archive/gps/DGF/station/log/cic100mex_20080702.log
+0136/692 /archive/gps/DGF/station/log/ciqe00cri_20240824.log
+0137/692 /archive/gps/DGF/station/log/cj0100per_20260617.log
+0138/692 /archive/gps/DGF/station/log/ckis00cok_20260803.log
+0139/692 /archive/gps/DGF/station/log/clec00ecu_20191025.log
+0140/692 /archive/gps/DGF/station/log/cmpn00chl_20250317.log
+0141/692 /archive/gps/DGF/station/log/cn1900abw_20260902.log
+0142/692 /archive/gps/DGF/station/log/cn3000nic_20180327.log
+0143/692 /archive/gps/DGF/station/log/cn3900ven_20180327.log
+0144/692 /archive/gps/DGF/station/log/cn4100ven_20251219.log
+0145/692 /archive/gps/DGF/station/log/cnec00ecu_20240523.log
+0146/692 /archive/gps/DGF/station/log/coam00bra_20180426.log
+0147/692 /archive/gps/DGF/station/log/coat00gtm_20120430.log
+0148/692 /archive/gps/DGF/station/log/coec00ecu_20251218.log
+0149/692 /archive/gps/DGF/station/log/col200mex_20240925.log
+0150/692 /archive/gps/DGF/station/log/conz00chl_20150407.log
+0151/692 /archive/gps/DGF/station/log/copo00chl_20150818.log
+0152/692 /archive/gps/DGF/station/log/cord00arg_20260326.log
+0153/692 /archive/gps/DGF/station/log/coru00bra_20260112.log
+0154/692 /archive/gps/DGF/station/log/cotz00gtm_20120430.log
+0155/692 /archive/gps/DGF/station/log/coyq00chl_20201025.log
+0156/692 /archive/gps/DGF/station/log/cpvg00cpv_20250820.log
+0157/692 /archive/gps/DGF/station/log/crat00bra_20210429.log
+0158/692 /archive/gps/DGF/station/log/crcp00cri_20131115.log
+0159/692 /archive/gps/DGF/station/log/crcs00ven_20100201.log
+0160/692 /archive/gps/DGF/station/log/cris00ven_20090504.log
+0161/692 /archive/gps/DGF/station/log/crlp00cri_20201217.log
+0162/692 /archive/gps/DGF/station/log/cro100vir_20260317.log
+0163/692 /archive/gps/DGF/station/log/cruz00bra_20210421.log
+0164/692 /archive/gps/DGF/station/log/cs0100per_20260622.log
+0165/692 /archive/gps/DGF/station/log/cslo00arg_20190320.log
+0166/692 /archive/gps/DGF/station/log/cucu00col_20240509.log
+0167/692 /archive/gps/DGF/station/log/cuec00ecu_20210429.log
+0168/692 /archive/gps/DGF/station/log/cuib00bra_20231106.log
+0169/692 /archive/gps/DGF/station/log/culc00mex_20240311.log
+0170/692 /archive/gps/DGF/station/log/culi00mex_20130129.log
+0171/692 /archive/gps/DGF/station/log/cum300ven_20120116.log
+0172/692 /archive/gps/DGF/station/log/cxec00ecu_20210429.log
+0173/692 /archive/gps/DGF/station/log/cyne00guf_20251205.log
+0174/692 /archive/gps/DGF/station/log/dari00pan_20250414.log
+0175/692 /archive/gps/DGF/station/log/davi00pan_20241021.log
+0176/692 /archive/gps/DGF/station/log/dgpn00bol_20240226.log
+0177/692 /archive/gps/DGF/station/log/dora00col_20240509.log
+0178/692 /archive/gps/DGF/station/log/dpec00ecu_20190515.log
+0179/692 /archive/gps/DGF/station/log/dubo00can_20251117.log
+0180/692 /archive/gps/DGF/station/log/each00bra_20180510.log
+0181/692 /archive/gps/DGF/station/log/ebpt00col_20220901.log
+0182/692 /archive/gps/DGF/station/log/eby100arg_20210903.log
+0183/692 /archive/gps/DGF/station/log/ebyp00arg_20090610.log
+0184/692 /archive/gps/DGF/station/log/ecec00ecu_20230703.log
+0185/692 /archive/gps/DGF/station/log/eesc00bra_20250930.log
+0186/692 /archive/gps/DGF/station/log/eisl00chl_20040326.log
+0187/692 /archive/gps/DGF/station/log/elen00gtm_20150331.log
+0188/692 /archive/gps/DGF/station/log/emib00bol_20150406.log
+0189/692 /archive/gps/DGF/station/log/epec00ecu_20220513.log
+0190/692 /archive/gps/DGF/station/log/erec00ecu_20130710.log
+0191/692 /archive/gps/DGF/station/log/esec00ecu_20240724.log
+0192/692 /archive/gps/DGF/station/log/esmr00ecu_20200101.log
+0193/692 /archive/gps/DGF/station/log/esnv00bra_20230928.log
+0194/692 /archive/gps/DGF/station/log/esqu00arg_20161003.log
+0195/692 /archive/gps/DGF/station/log/esti00nic_20061113.log
+0196/692 /archive/gps/DGF/station/log/etcg00cri_20150710.log
+0197/692 /archive/gps/DGF/station/log/eur200can_20260123.log
+0198/692 /archive/gps/DGF/station/log/exu000bhs_20190307.log
+0199/692 /archive/gps/DGF/station/log/fair00usa_20260212.log
+0200/692 /archive/gps/DGF/station/log/falk00flk_20260422.log
+0201/692 /archive/gps/DGF/station/log/flf100usa_20230203.log
+0202/692 /archive/gps/DGF/station/log/flin00can_20251117.log
+0203/692 /archive/gps/DGF/station/log/flor00col_20131130.log
+0204/692 /archive/gps/DGF/station/log/foec00ecu_20210516.log
+0205/692 /archive/gps/DGF/station/log/fort00bra_20050224.log
+0206/692 /archive/gps/DGF/station/log/fqne00col_20220809.log
+0207/692 /archive/gps/DGF/station/log/gala00ecu_20020307.log
+0208/692 /archive/gps/DGF/station/log/gara00col_20220805.log
+0209/692 /archive/gps/DGF/station/log/gcgt00cym_20111216.log
+0210/692 /archive/gps/DGF/station/log/glps00ecu_20260316.log
+0211/692 /archive/gps/DGF/station/log/gode00usa_20260729.log
+0212/692 /archive/gps/DGF/station/log/gogy00bra_20250930.log
+0213/692 /archive/gps/DGF/station/log/goja00bra_20230901.log
+0214/692 /archive/gps/DGF/station/log/gol200usa_20250108.log
+0215/692 /archive/gps/DGF/station/log/gold00usa_20250130.log
+0216/692 /archive/gps/DGF/station/log/goug00shn_20140314.log
+0217/692 /archive/gps/DGF/station/log/gour00bra_20241122.log
+0218/692 /archive/gps/DGF/station/log/gqec00ecu_20210516.log
+0219/692 /archive/gps/DGF/station/log/gre000grd_20150306.log
+0220/692 /archive/gps/DGF/station/log/gre100grd_20180316.log
+0221/692 /archive/gps/DGF/station/log/gtk000tca_20150309.log
+0222/692 /archive/gps/DGF/station/log/guai00bra_20260202.log
+0223/692 /archive/gps/DGF/station/log/guat00gtm_20201123.log
+0224/692 /archive/gps/DGF/station/log/guav00col_20080313.log
+0225/692 /archive/gps/DGF/station/log/guax00mex_20251219.log
+0226/692 /archive/gps/DGF/station/log/guay00arg_20260724.log
+0227/692 /archive/gps/DGF/station/log/guec00ecu_20200929.log
+0228/692 /archive/gps/DGF/station/log/gva100bra_20230711.log
+0229/692 /archive/gps/DGF/station/log/gval00bra_20140620.log
+0230/692 /archive/gps/DGF/station/log/gvre00col_20131130.log
+0231/692 /archive/gps/DGF/station/log/gyec00ecu_20130304.log
+0232/692 /archive/gps/DGF/station/log/gzec00ecu_20210516.log
+0233/692 /archive/gps/DGF/station/log/hc0300per_20260519.log
+0234/692 /archive/gps/DGF/station/log/her200mex_20170913.log
+0235/692 /archive/gps/DGF/station/log/hlfx00can_20220715.log
+0236/692 /archive/gps/DGF/station/log/holm00can_20231127.log
+0237/692 /archive/gps/DGF/station/log/hueh00gtm_20130806.log
+0238/692 /archive/gps/DGF/station/log/hv0100per_20260615.log
+0239/692 /archive/gps/DGF/station/log/iacr00chl_20230423.log
+0240/692 /archive/gps/DGF/station/log/ibag00col_20220805.log
+0241/692 /archive/gps/DGF/station/log/ibec00ecu_20251218.log
+0242/692 /archive/gps/DGF/station/log/ic0100per_20200513.log
+0243/692 /archive/gps/DGF/station/log/icam00mex_20240925.log
+0244/692 /archive/gps/DGF/station/log/icec00ecu_20241018.log
+0245/692 /archive/gps/DGF/station/log/icep00mex_20240927.log
+0246/692 /archive/gps/DGF/station/log/idgo00mex_20240925.log
+0247/692 /archive/gps/DGF/station/log/ifsc00bra_20211229.log
+0248/692 /archive/gps/DGF/station/log/igm000arg_19990615.log
+0249/692 /archive/gps/DGF/station/log/igm100arg_20260424.log
+0250/692 /archive/gps/DGF/station/log/ign100pan_20240702.log
+0251/692 /archive/gps/DGF/station/log/ikec00ecu_20220321.log
+0252/692 /archive/gps/DGF/station/log/ilha00bra_20230901.log
+0253/692 /archive/gps/DGF/station/log/imbt00bra_20220223.log
+0254/692 /archive/gps/DGF/station/log/impz00bra_20240725.log
+0255/692 /archive/gps/DGF/station/log/inec00ecu_20220321.log
+0256/692 /archive/gps/DGF/station/log/ineg00mex_20260820.log
+0257/692 /archive/gps/DGF/station/log/invk00can_20260722.log
+0258/692 /archive/gps/DGF/station/log/ipaz00mex_20240926.log
+0259/692 /archive/gps/DGF/station/log/iqal00can_20240717.log
+0260/692 /archive/gps/DGF/station/log/iqqe00chl_20251223.log
+0261/692 /archive/gps/DGF/station/log/iqui00per_20180523.log
+0262/692 /archive/gps/DGF/station/log/isco00cri_20180301.log
+0263/692 /archive/gps/DGF/station/log/ispa00chl_20260527.log
+0264/692 /archive/gps/DGF/station/log/itai00bra_20221215.log
+0265/692 /archive/gps/DGF/station/log/itam00bra_20180926.log
+0266/692 /archive/gps/DGF/station/log/jama00jam_20060627.log
+0267/692 /archive/gps/DGF/station/log/jamg00bra_20220701.log
+0268/692 /archive/gps/DGF/station/log/jbal00arg_20260303.log
+0269/692 /archive/gps/DGF/station/log/jnec00ecu_20230516.log
+0270/692 /archive/gps/DGF/station/log/jplm00usa_20260406.log
+0271/692 /archive/gps/DGF/station/log/ju0300per_20260519.log
+0272/692 /archive/gps/DGF/station/log/kokb00usa_20260413.log
+0273/692 /archive/gps/DGF/station/log/koug00guf_20260126.log
+0274/692 /archive/gps/DGF/station/log/kour00guf_20251112.log
+0275/692 /archive/gps/DGF/station/log/ksu100usa_20250415.log
+0276/692 /archive/gps/DGF/station/log/kuj200can_20260408.log
+0277/692 /archive/gps/DGF/station/log/kyw100usa_20060518.log
+0278/692 /archive/gps/DGF/station/log/laec00ecu_20211207.log
+0279/692 /archive/gps/DGF/station/log/lb0100per_20240311.log
+0280/692 /archive/gps/DGF/station/log/lbra00cri_20240824.log
+0281/692 /archive/gps/DGF/station/log/lcrz00cri_20240824.log
+0282/692 /archive/gps/DGF/station/log/lhcl00arg_20260612.log
+0283/692 /archive/gps/DGF/station/log/li0100per_20200513.log
+0284/692 /archive/gps/DGF/station/log/libe00cri_20181024.log
+0285/692 /archive/gps/DGF/station/log/limn00cri_20240824.log
+0286/692 /archive/gps/DGF/station/log/lipa00col_20220808.log
+0287/692 /archive/gps/DGF/station/log/ljec00ecu_20250608.log
+0288/692 /archive/gps/DGF/station/log/lmmf00mtq_20251204.log
+0289/692 /archive/gps/DGF/station/log/lpaz00mex_20120105.log
+0290/692 /archive/gps/DGF/station/log/lpec00ecu_20191025.log
+0291/692 /archive/gps/DGF/station/log/lpgs00arg_20250321.log
+0292/692 /archive/gps/DGF/station/log/lr0100per_20200513.log
+0293/692 /archive/gps/DGF/station/log/lrec00ecu_20201021.log
+0294/692 /archive/gps/DGF/station/log/lrib00bol_20231228.log
+0295/692 /archive/gps/DGF/station/log/lros00arg_20230908.log
+0296/692 /archive/gps/DGF/station/log/ma0100arg_20180329.log
+0297/692 /archive/gps/DGF/station/log/maba00bra_20260112.log
+0298/692 /archive/gps/DGF/station/log/mabb00bra_20241122.log
+0299/692 /archive/gps/DGF/station/log/mabs00bra_20230130.log
+0300/692 /archive/gps/DGF/station/log/maec00ecu_20210512.log
+0301/692 /archive/gps/DGF/station/log/maga00col_20140211.log
+0302/692 /archive/gps/DGF/station/log/mana00nic_20250409.log
+0303/692 /archive/gps/DGF/station/log/manu00bra_19971201.log
+0304/692 /archive/gps/DGF/station/log/manz00mex_20040721.log
+0305/692 /archive/gps/DGF/station/log/mapa00bra_20170622.log
+0306/692 /archive/gps/DGF/station/log/mara00ven_20150330.log
+0307/692 /archive/gps/DGF/station/log/mas100esp_20251107.log
+0308/692 /archive/gps/DGF/station/log/mbio00ata_20211221.log
+0309/692 /archive/gps/DGF/station/log/mcl100bra_20180813.log
+0310/692 /archive/gps/DGF/station/log/mcla00bra_20140620.log
+0311/692 /archive/gps/DGF/station/log/md0100per_20260619.log
+0312/692 /archive/gps/DGF/station/log/mdo100usa_20260318.log
+0313/692 /archive/gps/DGF/station/log/meco00arg_20220311.log
+0314/692 /archive/gps/DGF/station/log/mede00col_20240509.log
+0315/692 /archive/gps/DGF/station/log/meri00mex_20240925.log
+0316/692 /archive/gps/DGF/station/log/mexi00mex_20240926.log
+0317/692 /archive/gps/DGF/station/log/mgbh00bra_20260112.log
+0318/692 /archive/gps/DGF/station/log/mgin00bra_20220525.log
+0319/692 /archive/gps/DGF/station/log/mgjf00bra_20260113.log
+0320/692 /archive/gps/DGF/station/log/mgjp00bra_20260113.log
+0321/692 /archive/gps/DGF/station/log/mgla00bra_20220531.log
+0322/692 /archive/gps/DGF/station/log/mgmc00bra_20260113.log
+0323/692 /archive/gps/DGF/station/log/mgmt00bra_20220223.log
+0324/692 /archive/gps/DGF/station/log/mgrp00bra_20210616.log
+0325/692 /archive/gps/DGF/station/log/mgto00bra_20260112.log
+0326/692 /archive/gps/DGF/station/log/mgub00bra_20260112.log
+0327/692 /archive/gps/DGF/station/log/mgue00arg_20251107.log
+0328/692 /archive/gps/DGF/station/log/mgv100bra_20230711.log
+0329/692 /archive/gps/DGF/station/log/mgva00bra_20131206.log
+0330/692 /archive/gps/DGF/station/log/mhec00ecu_20210511.log
+0331/692 /archive/gps/DGF/station/log/mia300usa_20050706.log
+0332/692 /archive/gps/DGF/station/log/mimq00usa_20221013.log
+0333/692 /archive/gps/DGF/station/log/mkea00usa_20260310.log
+0334/692 /archive/gps/DGF/station/log/moin00cri_19990921.log
+0335/692 /archive/gps/DGF/station/log/monp00usa_20251216.log
+0336/692 /archive/gps/DGF/station/log/mote00col_20240507.log
+0337/692 /archive/gps/DGF/station/log/mpl200arg_20260522.log
+0338/692 /archive/gps/DGF/station/log/mpla00arg_20060925.log
+0339/692 /archive/gps/DGF/station/log/mrls00gtm_20120430.log
+0340/692 /archive/gps/DGF/station/log/msaq00bra_20210616.log
+0341/692 /archive/gps/DGF/station/log/msbl00bra_20190225.log
+0342/692 /archive/gps/DGF/station/log/mscb00bra_20190816.log
+0343/692 /archive/gps/DGF/station/log/mscg00bra_20210328.log
+0344/692 /archive/gps/DGF/station/log/msco00bra_20160831.log
+0345/692 /archive/gps/DGF/station/log/msdo00bra_20121206.log
+0346/692 /archive/gps/DGF/station/log/msdr00bra_20260112.log
+0347/692 /archive/gps/DGF/station/log/msgr00bra_20260109.log
+0348/692 /archive/gps/DGF/station/log/msjr00bra_20190225.log
+0349/692 /archive/gps/DGF/station/log/msmj00bra_20180510.log
+0350/692 /archive/gps/DGF/station/log/msmn00bra_20230731.log
+0351/692 /archive/gps/DGF/station/log/msnv00bra_20210616.log
+0352/692 /archive/gps/DGF/station/log/mspm00bra_20190225.log
+0353/692 /archive/gps/DGF/station/log/mspp00bra_20260113.log
+0354/692 /archive/gps/DGF/station/log/mtba00bra_20161127.log
+0355/692 /archive/gps/DGF/station/log/mtca00bra_20240920.log
+0356/692 /archive/gps/DGF/station/log/mtcn00bra_20230615.log
+0357/692 /archive/gps/DGF/station/log/mtco00bra_20190820.log
+0358/692 /archive/gps/DGF/station/log/mtec00ecu_20210511.log
+0359/692 /archive/gps/DGF/station/log/mtga00bra_20260112.log
+0360/692 /archive/gps/DGF/station/log/mtit00bra_20210628.log
+0361/692 /archive/gps/DGF/station/log/mtji00bra_20230602.log
+0362/692 /archive/gps/DGF/station/log/mtla00bra_20260113.log
+0363/692 /archive/gps/DGF/station/log/mtle00bra_20220711.log
+0364/692 /archive/gps/DGF/station/log/mtnm00bra_20210809.log
+0365/692 /archive/gps/DGF/station/log/mtnx00bra_20220701.log
+0366/692 /archive/gps/DGF/station/log/mtsc00bra_20180510.log
+0367/692 /archive/gps/DGF/station/log/mtsf00bra_20190816.log
+0368/692 /archive/gps/DGF/station/log/mtsr00bra_20241122.log
+0369/692 /archive/gps/DGF/station/log/mtv100ury_20260130.log
+0370/692 /archive/gps/DGF/station/log/mtvb00bra_20160831.log
+0371/692 /archive/gps/DGF/station/log/mty200mex_20240930.log
+0372/692 /archive/gps/DGF/station/log/muec00ecu_20260824.log
+0373/692 /archive/gps/DGF/station/log/mzac00arg_20170807.log
+0374/692 /archive/gps/DGF/station/log/mzae00arg_20220405.log
+0375/692 /archive/gps/DGF/station/log/mzal00arg_20180418.log
+0376/692 /archive/gps/DGF/station/log/mzas00arg_20130325.log
+0377/692 /archive/gps/DGF/station/log/mzau00arg_20130516.log
+0378/692 /archive/gps/DGF/station/log/mzga00arg_20140415.log
+0379/692 /archive/gps/DGF/station/log/mzrf00arg_20230210.log
+0380/692 /archive/gps/DGF/station/log/mzsr00arg_20161117.log
+0381/692 /archive/gps/DGF/station/log/nain00can_20240723.log
+0382/692 /archive/gps/DGF/station/log/nara00gtm_20120430.log
+0383/692 /archive/gps/DGF/station/log/nas000bhs_20251216.log
+0384/692 /archive/gps/DGF/station/log/naus00bra_20240521.log
+0385/692 /archive/gps/DGF/station/log/neia00bra_20211125.log
+0386/692 /archive/gps/DGF/station/log/neil00cri_20240824.log
+0387/692 /archive/gps/DGF/station/log/nesa00arg_20191112.log
+0388/692 /archive/gps/DGF/station/log/neva00col_20220805.log
+0389/692 /archive/gps/DGF/station/log/nicy00cri_20160519.log
+0390/692 /archive/gps/DGF/station/log/nist00usa_20260630.log
+0391/692 /archive/gps/DGF/station/log/njec00ecu_20230703.log
+0392/692 /archive/gps/DGF/station/log/nklg00gab_20260126.log
+0393/692 /archive/gps/DGF/station/log/nlib00usa_20260310.log
+0394/692 /archive/gps/DGF/station/log/nyco00cri_20240824.log
+0395/692 /archive/gps/DGF/station/log/oafa00arg_20230327.log
+0396/692 /archive/gps/DGF/station/log/oax200mex_20240927.log
+0397/692 /archive/gps/DGF/station/log/obra00arg_20260224.log
+0398/692 /archive/gps/DGF/station/log/ohi200ata_20260319.log
+0399/692 /archive/gps/DGF/station/log/ohi300ata_20230608.log
+0400/692 /archive/gps/DGF/station/log/ohig00ata_20010212.log
+0401/692 /archive/gps/DGF/station/log/onec00ecu_20230308.log
+0402/692 /archive/gps/DGF/station/log/onrj00bra_20190430.log
+0403/692 /archive/gps/DGF/station/log/orec00ecu_20200929.log
+0404/692 /archive/gps/DGF/station/log/osor00chl_20210220.log
+0405/692 /archive/gps/DGF/station/log/ouri00bra_20170315.log
+0406/692 /archive/gps/DGF/station/log/p01200usa_20251215.log
+0407/692 /archive/gps/DGF/station/log/p04300usa_20260624.log
+0408/692 /archive/gps/DGF/station/log/p05100usa_20260624.log
+0409/692 /archive/gps/DGF/station/log/p05300usa_20260624.log
+0410/692 /archive/gps/DGF/station/log/p38900usa_20260624.log
+0411/692 /archive/gps/DGF/station/log/p77700usa_20250422.log
+0412/692 /archive/gps/DGF/station/log/p80200usa_20260624.log
+0413/692 /archive/gps/DGF/station/log/paar00bra_20240717.log
+0414/692 /archive/gps/DGF/station/log/paat00bra_20170925.log
+0415/692 /archive/gps/DGF/station/log/paec00ecu_20230308.log
+0416/692 /archive/gps/DGF/station/log/pait00bra_20240717.log
+0417/692 /archive/gps/DGF/station/log/palm00ata_20260312.log
+0418/692 /archive/gps/DGF/station/log/palv00ata_20160329.log
+0419/692 /archive/gps/DGF/station/log/pamp00col_20240506.log
+0420/692 /archive/gps/DGF/station/log/para00bra_20080706.log
+0421/692 /archive/gps/DGF/station/log/parc00chl_20260817.log
+0422/692 /archive/gps/DGF/station/log/pasm00bra_20221128.log
+0423/692 /archive/gps/DGF/station/log/past00bra_20150602.log
+0424/692 /archive/gps/DGF/station/log/pbcg00bra_20240510.log
+0425/692 /archive/gps/DGF/station/log/pbjp00bra_20260112.log
+0426/692 /archive/gps/DGF/station/log/pbpt00bra_20231127.log
+0427/692 /archive/gps/DGF/station/log/pde200arg_20090805.log
+0428/692 /archive/gps/DGF/station/log/pde300arg_20211221.log
+0429/692 /archive/gps/DGF/station/log/pdec00ecu_20180110.log
+0430/692 /archive/gps/DGF/station/log/pdel00prt_20260630.log
+0431/692 /archive/gps/DGF/station/log/pdes00arg_20060925.log
+0432/692 /archive/gps/DGF/station/log/peaf00bra_20180507.log
+0433/692 /archive/gps/DGF/station/log/peec00ecu_20160510.log
+0434/692 /archive/gps/DGF/station/log/pejo00arg_20130516.log
+0435/692 /archive/gps/DGF/station/log/pelu00arg_20211221.log
+0436/692 /archive/gps/DGF/station/log/pepe00bra_20220325.log
+0437/692 /archive/gps/DGF/station/log/pera00col_20240509.log
+0438/692 /archive/gps/DGF/station/log/perc00bra_20260113.log
+0439/692 /archive/gps/DGF/station/log/pi0100per_20240318.log
+0440/692 /archive/gps/DGF/station/log/picr00bra_20141105.log
+0441/692 /archive/gps/DGF/station/log/pie100usa_20260325.log
+0442/692 /archive/gps/DGF/station/log/piec00ecu_20211210.log
+0443/692 /archive/gps/DGF/station/log/pifl00bra_20241122.log
+0444/692 /archive/gps/DGF/station/log/pisr00bra_20210512.log
+0445/692 /archive/gps/DGF/station/log/pitn00bra_20231006.log
+0446/692 /archive/gps/DGF/station/log/piur00per_20250925.log
+0447/692 /archive/gps/DGF/station/log/pjec00ecu_20160912.log
+0448/692 /archive/gps/DGF/station/log/pjmz00cri_20240824.log
+0449/692 /archive/gps/DGF/station/log/plec00ecu_20211128.log
+0450/692 /archive/gps/DGF/station/log/pmb100sur_20250417.log
+0451/692 /archive/gps/DGF/station/log/pmec00pan_20241021.log
+0452/692 /archive/gps/DGF/station/log/poal00bra_20260109.log
+0453/692 /archive/gps/DGF/station/log/poec00ecu_20241211.log
+0454/692 /archive/gps/DGF/station/log/poli00bra_20260112.log
+0455/692 /archive/gps/DGF/station/log/popa00col_20220805.log
+0456/692 /archive/gps/DGF/station/log/popt00gtm_20120430.log
+0457/692 /archive/gps/DGF/station/log/pove00bra_20260109.log
+0458/692 /archive/gps/DGF/station/log/ppte00bra_20250930.log
+0459/692 /archive/gps/DGF/station/log/prcl00bra_20230920.log
+0460/692 /archive/gps/DGF/station/log/prcv00bra_20210504.log
+0461/692 /archive/gps/DGF/station/log/prds00can_20251121.log
+0462/692 /archive/gps/DGF/station/log/prec00ecu_20250617.log
+0463/692 /archive/gps/DGF/station/log/prgu00bra_20260112.log
+0464/692 /archive/gps/DGF/station/log/prma00bra_20251001.log
+0465/692 /archive/gps/DGF/station/log/prna00arg_20260727.log
+0466/692 /archive/gps/DGF/station/log/prur00bra_20190225.log
+0467/692 /archive/gps/DGF/station/log/psec00ecu_20230522.log
+0468/692 /archive/gps/DGF/station/log/psto00col_20220805.log
+0469/692 /archive/gps/DGF/station/log/ptec00ecu_20160120.log
+0470/692 /archive/gps/DGF/station/log/pu0200per_20200513.log
+0471/692 /archive/gps/DGF/station/log/puar00pan_20161215.log
+0472/692 /archive/gps/DGF/station/log/punt00cri_20240824.log
+0473/692 /archive/gps/DGF/station/log/pur300pri_20050706.log
+0474/692 /archive/gps/DGF/station/log/pus200bol_20221122.log
+0475/692 /archive/gps/DGF/station/log/pvec00ecu_20160510.log
+0476/692 /archive/gps/DGF/station/log/py0100pry_20211221.log
+0477/692 /archive/gps/DGF/station/log/qaq100grl_20260327.log
+0478/692 /archive/gps/DGF/station/log/qnec00ecu_20240729.log
+0479/692 /archive/gps/DGF/station/log/quem00ecu_20260306.log
+0480/692 /archive/gps/DGF/station/log/quep00cri_20240824.log
+0481/692 /archive/gps/DGF/station/log/qui100ecu_20250122.log
+0482/692 /archive/gps/DGF/station/log/qui300ecu_20260130.log
+0483/692 /archive/gps/DGF/station/log/quib00col_20131130.log
+0484/692 /archive/gps/DGF/station/log/quin00usa_20250902.log
+0485/692 /archive/gps/DGF/station/log/qvec00ecu_20230703.log
+0486/692 /archive/gps/DGF/station/log/rdeo00bol_20161025.log
+0487/692 /archive/gps/DGF/station/log/rdsd00dom_20251114.log
+0488/692 /archive/gps/DGF/station/log/recf00bra_20180228.log
+0489/692 /archive/gps/DGF/station/log/reco00arg_20260703.log
+0490/692 /archive/gps/DGF/station/log/ridc00cri_20240824.log
+0491/692 /archive/gps/DGF/station/log/rio200arg_20230510.log
+0492/692 /archive/gps/DGF/station/log/riob00bra_20231006.log
+0493/692 /archive/gps/DGF/station/log/riod00bra_20190612.log
+0494/692 /archive/gps/DGF/station/log/riog00arg_20060731.log
+0495/692 /archive/gps/DGF/station/log/rioh00col_20140212.log
+0496/692 /archive/gps/DGF/station/log/riop00ecu_20211122.log
+0497/692 /archive/gps/DGF/station/log/rjcg00bra_20230815.log
+0498/692 /archive/gps/DGF/station/log/rjni00bra_20260112.log
+0499/692 /archive/gps/DGF/station/log/rjre00bra_20231130.log
+0500/692 /archive/gps/DGF/station/log/rjva00bra_20260312.log
+0501/692 /archive/gps/DGF/station/log/rnmo00bra_20220624.log
+0502/692 /archive/gps/DGF/station/log/rnna00bra_20221128.log
+0503/692 /archive/gps/DGF/station/log/rnpf00bra_20220909.log
+0504/692 /archive/gps/DGF/station/log/rocd00bra_20190607.log
+0505/692 /archive/gps/DGF/station/log/rogm00bra_20200803.log
+0506/692 /archive/gps/DGF/station/log/rogu00bra_20230920.log
+0507/692 /archive/gps/DGF/station/log/roji00bra_20221128.log
+0508/692 /archive/gps/DGF/station/log/rosa00bra_20250527.log
+0509/692 /archive/gps/DGF/station/log/rovi00bra_20240322.log
+0510/692 /archive/gps/DGF/station/log/rsal00bra_20210616.log
+0511/692 /archive/gps/DGF/station/log/rscl00bra_20260112.log
+0512/692 /archive/gps/DGF/station/log/rspe00bra_20220913.log
+0513/692 /archive/gps/DGF/station/log/rspf00bra_20260112.log
+0514/692 /archive/gps/DGF/station/log/rssl00bra_20260112.log
+0515/692 /archive/gps/DGF/station/log/rubi00col_20211227.log
+0516/692 /archive/gps/DGF/station/log/rvec00ecu_20250403.log
+0517/692 /archive/gps/DGF/station/log/rwsn00arg_20140730.log
+0518/692 /archive/gps/DGF/station/log/s06100ecu_20050302.log
+0519/692 /archive/gps/DGF/station/log/saby00bes_20260601.log
+0520/692 /archive/gps/DGF/station/log/saga00bra_20230922.log
+0521/692 /archive/gps/DGF/station/log/sage00cri_20240824.log
+0522/692 /archive/gps/DGF/station/log/salu00bra_20260121.log
+0523/692 /archive/gps/DGF/station/log/salv00bra_20080229.log
+0524/692 /archive/gps/DGF/station/log/sama00col_20220805.log
+0525/692 /archive/gps/DGF/station/log/sant00chl_20260330.log
+0526/692 /archive/gps/DGF/station/log/savo00bra_20230809.log
+0527/692 /archive/gps/DGF/station/log/saya00gtm_20120430.log
+0528/692 /archive/gps/DGF/station/log/scaq00bra_20230602.log
+0529/692 /archive/gps/DGF/station/log/scbl00bra_20230922.log
+0530/692 /archive/gps/DGF/station/log/scca00bra_20230531.log
+0531/692 /archive/gps/DGF/station/log/scch00bra_20260112.log
+0532/692 /archive/gps/DGF/station/log/sccr00bra_20220915.log
+0533/692 /archive/gps/DGF/station/log/scec00ecu_20180110.log
+0534/692 /archive/gps/DGF/station/log/scfl00bra_20260113.log
+0535/692 /archive/gps/DGF/station/log/sch200can_20260615.log
+0536/692 /archive/gps/DGF/station/log/scim00bra_20220506.log
+0537/692 /archive/gps/DGF/station/log/scla00bra_20221219.log
+0538/692 /archive/gps/DGF/station/log/scor00grl_20260921.log
+0539/692 /archive/gps/DGF/station/log/scrz00bol_20250108.log
+0540/692 /archive/gps/DGF/station/log/scub00cub_20211116.log
+0541/692 /archive/gps/DGF/station/log/sdta00col_20220805.log
+0542/692 /archive/gps/DGF/station/log/seaj00bra_20260112.log
+0543/692 /archive/gps/DGF/station/log/seec00ecu_20250509.log
+0544/692 /archive/gps/DGF/station/log/seus00bes_20260528.log
+0545/692 /archive/gps/DGF/station/log/sg2700usa_20251121.log
+0546/692 /archive/gps/DGF/station/log/sgpo00usa_20250321.log
+0547/692 /archive/gps/DGF/station/log/sico00arg_20211221.log
+0548/692 /archive/gps/DGF/station/log/siec00ecu_20210506.log
+0549/692 /archive/gps/DGF/station/log/sinc00col_20240509.log
+0550/692 /archive/gps/DGF/station/log/sjne00col_20220805.log
+0551/692 /archive/gps/DGF/station/log/sjrp00bra_20240717.log
+0552/692 /archive/gps/DGF/station/log/sjsp00bra_20230707.log
+0553/692 /archive/gps/DGF/station/log/sl0100arg_20260610.log
+0554/692 /archive/gps/DGF/station/log/slor00hnd_20061113.log
+0555/692 /archive/gps/DGF/station/log/sm0100per_20260518.log
+0556/692 /archive/gps/DGF/station/log/smar00bra_20190430.log
+0557/692 /archive/gps/DGF/station/log/smdm00arg_20211221.log
+0558/692 /archive/gps/DGF/station/log/smrt00nld_20190307.log
+0559/692 /archive/gps/DGF/station/log/snec00ecu_20240708.log
+0560/692 /archive/gps/DGF/station/log/snlr00ecu_20251218.log
+0561/692 /archive/gps/DGF/station/log/snsn00col_20220808.log
+0562/692 /archive/gps/DGF/station/log/socb00col_20240506.log
+0563/692 /archive/gps/DGF/station/log/sone00col_20220808.log
+0564/692 /archive/gps/DGF/station/log/spar00bra_20210628.log
+0565/692 /archive/gps/DGF/station/log/spbo00bra_20220901.log
+0566/692 /archive/gps/DGF/station/log/spbp00bra_20240322.log
+0567/692 /archive/gps/DGF/station/log/spc100bra_20260112.log
+0568/692 /archive/gps/DGF/station/log/spca00bra_20150417.log
+0569/692 /archive/gps/DGF/station/log/spdr00bra_20210616.log
+0570/692 /archive/gps/DGF/station/log/spfe00bra_20230530.log
+0571/692 /archive/gps/DGF/station/log/spfr00bra_20160107.log
+0572/692 /archive/gps/DGF/station/log/spja00bra_20170411.log
+0573/692 /archive/gps/DGF/station/log/spli00bra_20250527.log
+0574/692 /archive/gps/DGF/station/log/spor00bra_20180510.log
+0575/692 /archive/gps/DGF/station/log/sppi00bra_20200130.log
+0576/692 /archive/gps/DGF/station/log/sprz00ata_20211221.log
+0577/692 /archive/gps/DGF/station/log/sps100bra_20210628.log
+0578/692 /archive/gps/DGF/station/log/spso00bra_20151215.log
+0579/692 /archive/gps/DGF/station/log/sptu00bra_20200513.log
+0580/692 /archive/gps/DGF/station/log/srlp00arg_20260511.log
+0581/692 /archive/gps/DGF/station/log/srnw00sur_20180418.log
+0582/692 /archive/gps/DGF/station/log/srzn00sur_20241115.log
+0583/692 /archive/gps/DGF/station/log/ssa100bra_20241122.log
+0584/692 /archive/gps/DGF/station/log/ssia00slv_20200127.log
+0585/692 /archive/gps/DGF/station/log/stec00ecu_20210506.log
+0586/692 /archive/gps/DGF/station/log/sthl00gbr_20250903.log
+0587/692 /archive/gps/DGF/station/log/stjo00can_20250908.log
+0588/692 /archive/gps/DGF/station/log/suan00col_20220808.log
+0589/692 /archive/gps/DGF/station/log/sues00col_20220809.log
+0590/692 /archive/gps/DGF/station/log/suth00zaf_20260413.log
+0591/692 /archive/gps/DGF/station/log/svic00arg_20161103.log
+0592/692 /archive/gps/DGF/station/log/tamp00mex_20240927.log
+0593/692 /archive/gps/DGF/station/log/tarz00col_20220901.log
+0594/692 /archive/gps/DGF/station/log/taxi00gtm_20120430.log
+0595/692 /archive/gps/DGF/station/log/tc0100per_20200513.log
+0596/692 /archive/gps/DGF/station/log/teg100hnd_20061201.log
+0597/692 /archive/gps/DGF/station/log/teg200hnd_20251218.log
+0598/692 /archive/gps/DGF/station/log/tegu00hnd_20050706.log
+0599/692 /archive/gps/DGF/station/log/teja00chl_20221214.log
+0600/692 /archive/gps/DGF/station/log/tero00arg_20080522.log
+0601/692 /archive/gps/DGF/station/log/tgcv00cpv_20010522.log
+0602/692 /archive/gps/DGF/station/log/tgta00arg_20211221.log
+0603/692 /archive/gps/DGF/station/log/thti00pyf_20230309.log
+0604/692 /archive/gps/DGF/station/log/thu200grl_20260327.log
+0605/692 /archive/gps/DGF/station/log/tika00gtm_20120430.log
+0606/692 /archive/gps/DGF/station/log/tint00gtm_20120430.log
+0607/692 /archive/gps/DGF/station/log/tmg200usa_20260720.log
+0608/692 /archive/gps/DGF/station/log/tmgo00usa_20190311.log
+0609/692 /archive/gps/DGF/station/log/tnec00ecu_20130101.log
+0610/692 /archive/gps/DGF/station/log/togu00bra_20260113.log
+0611/692 /archive/gps/DGF/station/log/tol200mex_20240927.log
+0612/692 /archive/gps/DGF/station/log/topl00bra_20260224.log
+0613/692 /archive/gps/DGF/station/log/tosf00arg_20211221.log
+0614/692 /archive/gps/DGF/station/log/tpec00ecu_20210506.log
+0615/692 /archive/gps/DGF/station/log/tpza00bol_20230719.log
+0616/692 /archive/gps/DGF/station/log/trdd00bol_20230719.log
+0617/692 /archive/gps/DGF/station/log/tsec00ecu_20210506.log
+0618/692 /archive/gps/DGF/station/log/tucu00arg_20161114.log
+0619/692 /archive/gps/DGF/station/log/tuma00col_20220808.log
+0620/692 /archive/gps/DGF/station/log/tuna00col_20220808.log
+0621/692 /archive/gps/DGF/station/log/uba100bra_20211125.log
+0622/692 /archive/gps/DGF/station/log/ubat00bra_20121210.log
+0623/692 /archive/gps/DGF/station/log/ube100bra_20220608.log
+0624/692 /archive/gps/DGF/station/log/uber00bra_20131206.log
+0625/692 /archive/gps/DGF/station/log/uc0100per_20200513.log
+0626/692 /archive/gps/DGF/station/log/uclu00can_20210420.log
+0627/692 /archive/gps/DGF/station/log/ucor00arg_20260630.log
+0628/692 /archive/gps/DGF/station/log/ucri00cri_20150710.log
+0629/692 /archive/gps/DGF/station/log/uepp00bra_20111021.log
+0630/692 /archive/gps/DGF/station/log/ufpr00bra_20260106.log
+0631/692 /archive/gps/DGF/station/log/ugto00mex_20240930.log
+0632/692 /archive/gps/DGF/station/log/unpa00arg_20190321.log
+0633/692 /archive/gps/DGF/station/log/unro00arg_20260727.log
+0634/692 /archive/gps/DGF/station/log/unsa00arg_20230510.log
+0635/692 /archive/gps/DGF/station/log/unsj00arg_20150910.log
+0636/692 /archive/gps/DGF/station/log/urus00bol_20200814.log
+0637/692 /archive/gps/DGF/station/log/uscl00chl_20251104.log
+0638/692 /archive/gps/DGF/station/log/uslp00mex_20160912.log
+0639/692 /archive/gps/DGF/station/log/usmx00mex_20251219.log
+0640/692 /archive/gps/DGF/station/log/usno00usa_20130809.log
+0641/692 /archive/gps/DGF/station/log/utqi00usa_20230119.log
+0642/692 /archive/gps/DGF/station/log/uyar00ury_20191112.log
+0643/692 /archive/gps/DGF/station/log/uyba00ata_20250122.log
+0644/692 /archive/gps/DGF/station/log/uybu00ury_20260707.log
+0645/692 /archive/gps/DGF/station/log/uycl00ury_20260805.log
+0646/692 /archive/gps/DGF/station/log/uyco00ury_20260730.log
+0647/692 /archive/gps/DGF/station/log/uydu00ury_20260706.log
+0648/692 /archive/gps/DGF/station/log/uyfd00ury_20220923.log
+0649/692 /archive/gps/DGF/station/log/uyfs00ury_20250507.log
+0650/692 /archive/gps/DGF/station/log/uyif00ury_20191112.log
+0651/692 /archive/gps/DGF/station/log/uyla00ury_20250428.log
+0652/692 /archive/gps/DGF/station/log/uylm00ury_20230607.log
+0653/692 /archive/gps/DGF/station/log/uylp00ury_20260717.log
+0654/692 /archive/gps/DGF/station/log/uyma00ury_20240502.log
+0655/692 /archive/gps/DGF/station/log/uymo00ury_20260717.log
+0656/692 /archive/gps/DGF/station/log/uyni00bol_20150422.log
+0657/692 /archive/gps/DGF/station/log/uypa00ury_20250411.log
+0658/692 /archive/gps/DGF/station/log/uypt00ury_20250808.log
+0659/692 /archive/gps/DGF/station/log/uyrb00ury_20230201.log
+0660/692 /archive/gps/DGF/station/log/uyri00ury_20191112.log
+0661/692 /archive/gps/DGF/station/log/uyro00ury_20260717.log
+0662/692 /archive/gps/DGF/station/log/uyrv00ury_20250410.log
+0663/692 /archive/gps/DGF/station/log/uysa00ury_20191112.log
+0664/692 /archive/gps/DGF/station/log/uysc00ury_20250808.log
+0665/692 /archive/gps/DGF/station/log/uysg00ury_20260706.log
+0666/692 /archive/gps/DGF/station/log/uysj00ury_20250429.log
+0667/692 /archive/gps/DGF/station/log/uyso00ury_20260803.log
+0668/692 /archive/gps/DGF/station/log/uyta00ury_20240424.log
+0669/692 /archive/gps/DGF/station/log/uytd00ury_20191112.log
+0670/692 /archive/gps/DGF/station/log/uytt00ury_20260805.log
+0671/692 /archive/gps/DGF/station/log/vall00col_20220808.log
+0672/692 /archive/gps/DGF/station/log/valp00chl_20150818.log
+0673/692 /archive/gps/DGF/station/log/varg00bra_20080229.log
+0674/692 /archive/gps/DGF/station/log/vbca00arg_20260511.log
+0675/692 /archive/gps/DGF/station/log/vera00cri_20260206.log
+0676/692 /archive/gps/DGF/station/log/vesl00ata_20080227.log
+0677/692 /archive/gps/DGF/station/log/vico00bra_20230602.log
+0678/692 /archive/gps/DGF/station/log/vil200mex_20240930.log
+0679/692 /archive/gps/DGF/station/log/vivi00col_20220808.log
+0680/692 /archive/gps/DGF/station/log/vndp00usa_20260624.log
+0681/692 /archive/gps/DGF/station/log/vuke00cri_20170802.log
+0682/692 /archive/gps/DGF/station/log/wes200usa_20260720.log
+0683/692 /archive/gps/DGF/station/log/whit00can_20251121.log
+0684/692 /archive/gps/DGF/station/log/will00can_20210913.log
+0685/692 /archive/gps/DGF/station/log/wind00nam_20230119.log
+0686/692 /archive/gps/DGF/station/log/ycba00bol_20200814.log
+0687/692 /archive/gps/DGF/station/log/yell00can_20251030.log
+0688/692 /archive/gps/DGF/station/log/yema00arg_20250911.log
+0689/692 /archive/gps/DGF/station/log/yesx00mex_20251219.log
+0690/692 /archive/gps/DGF/station/log/yopa00col_20240507.log
+0691/692 /archive/gps/DGF/station/log/zaca00gtm_20150430.log
+0692/692 /archive/gps/DGF/station/log/zarz00col_20220817.log
+ 
+============================================================
+Proceso terminado 
+Excel generado: output\SIRGAS_Log_Stations.xlsx 
+Archivo LOG: output\SIRGAS_Log_Stations.log 
+Registros: 692 
+Errores: 0 
+Review Required: 6 
+Valid XYZ: 686 
+Valid Geodetic: 686 
+Fin: 2026-10-05 18:28:07
+Duracion: 0:02:51.714255
+============================================================
+
+**************************************
+ SIRGAS Station Transformation GIS v1
+**************************************
+
+============================================================
+LECTURA DE EXCEL
+============================================================
+Registros leídos: 692
+
+============================================================
+DEPURACION DE CAMPOS
+============================================================
+Campo eliminado: file
+Campo eliminado: xyz_status
+Campo eliminado: geodetic_status
+
+============================================================
+VALIDACION DE COORDENADAS
+============================================================
+Registros válidos para GIS: 686
+Registros descartados: 6
+
+============================================================
+EXPORTANDO CSV UTF8 (;)
+============================================================
+output\SIRGAS_LOG.csv
+
+============================================================
+CREANDO GEODATAFRAME
+============================================================
+Geometrías creadas: 686
+
+============================================================
+EXPORTANDO SHAPEFILE
+============================================================
+output\SIRGAS_LOG.shp
+
+============================================================
+EMPAQUETANDO SHAPEFILE
+============================================================
+output\SIRGAS_LOG.zip
+
+============================================================
+EXPORTANDO GEOPACKAGE
+============================================================
+output\SIRGAS_LOG.gpkg
+
+============================================================
+EXPORTANDO GEOJSON
+============================================================
+output\SIRGAS_LOG.geojson
+
+============================================================
+PROCESO FINALIZADO
+============================================================
+Registros exportados : 686
+CRS                 : EPSG:4326
+
+Archivos generados:
+ - output\SIRGAS_LOG.csv
+ - output\SIRGAS_LOG.shp
+ - output\SIRGAS_LOG.gpkg
+ - output\SIRGAS_LOG.geojson
+============================================================
+
+**************************************
+ SIRGAS Station Loading BD GEONODO v1 
+**************************************
+
+============================================================
+SIRGAS POSTGIS LOAD
+============================================================
+Leyendo GeoJSON...
+Registros GeoJSON: 686
+Conectando PostgreSQL...
+Eliminando tabla anterior...
+Creando tabla y cargando registros...
+Creando indice espacial...
+Creando clave primaria gid...
+
+============================================================
+VALIDACION
+============================================================
+Origen  : 686
+Destino : 686
+
+CARGA EXITOSA
+
+Fin: 2026-10-05 18:28:13
+Duracion total Proceso: 0:02:57.721328
+============================================================
