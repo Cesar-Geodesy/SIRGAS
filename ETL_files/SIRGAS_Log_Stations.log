@@ -1,7 +1,7 @@
 ============================================================
             SNIT IDE Chile ETLv1.0 2026 SIRGAS V+D          
 ============================================================
-Inicio: 2026-10-07 15:44:02
+Inicio: 2026-10-07 16:46:48
 
 *************************************
  SIRGAS Station Logfile Extractor v1
@@ -711,8 +711,8 @@ Errores: 0
 Review Required: 6 
 Valid XYZ: 686 
 Valid Geodetic: 686 
-Fin: 2026-10-07 15:46:53
-Duracion: 0:02:50.940713
+Fin: 2026-10-07 16:49:41
+Duracion: 0:02:52.789741
 ============================================================
 
 **************************************
@@ -787,6 +787,8 @@ Archivos generados:
 ============================================================
 SIRGAS POSTGIS LOAD
 ============================================================
+
+
 Leyendo GeoJSON...
 Registros GeoJSON: 686
 Conectando PostgreSQL...
@@ -811,7 +813,7 @@ OK
 
 PUBLICACION GITHUB EXITOSA
 
-Fin: 2026-10-07 15:47:04
-Duracion total Proceso: 0:03:01.313925
+Fin: 2026-10-07 16:49:49
+Duracion total Proceso: 0:03:00.776074
 ============================================================
 Actualizando LOG maestro en GitHub...
