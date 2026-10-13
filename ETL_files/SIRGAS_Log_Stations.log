@@ -1,7 +1,7 @@
 ============================================================
             SNIT IDE Chile ETLv1.0 2026 SIRGAS V+D          
 ============================================================
-Inicio: 2026-10-07 17:44:31
+Inicio: 2026-10-13 16:35:32
 
 *************************************
  SIRGAS Station Logfile Extractor v1
@@ -95,7 +95,7 @@ Archivos encontrados: 692
 0084/692 /archive/gps/DGF/station/log/bele00bra_20240725.log
 0085/692 /archive/gps/DGF/station/log/bepa00bra_20230714.log
 0086/692 /archive/gps/DGF/station/log/berr00col_20220804.log
-0087/692 /archive/gps/DGF/station/log/bfny00usa_20250831.log
+0087/692 /archive/gps/DGF/station/log/bfny00usa_20260831.log
 0088/692 /archive/gps/DGF/station/log/bhec00ecu_20230703.log
 0089/692 /archive/gps/DGF/station/log/bjco00ben_20220317.log
 0090/692 /archive/gps/DGF/station/log/blpz00bol_20140421.log
@@ -110,7 +110,7 @@ Archivos encontrados: 692
 0099/692 /archive/gps/DGF/station/log/brbr00cri_20240824.log
 0100/692 /archive/gps/DGF/station/log/brew00usa_20260909.log
 0101/692 /archive/gps/DGF/station/log/brft00bra_20230206.log
-0102/692 /archive/gps/DGF/station/log/brmu00gbr_20250613.log
+0102/692 /archive/gps/DGF/station/log/brmu00gbr_20260928.log
 0103/692 /archive/gps/DGF/station/log/bsuc00bol_20170525.log
 0104/692 /archive/gps/DGF/station/log/buca00col_20080118.log
 0105/692 /archive/gps/DGF/station/log/bue200arg_20100627.log
@@ -192,7 +192,7 @@ Archivos encontrados: 692
 0181/692 /archive/gps/DGF/station/log/ebpt00col_20220901.log
 0182/692 /archive/gps/DGF/station/log/eby100arg_20210903.log
 0183/692 /archive/gps/DGF/station/log/ebyp00arg_20090610.log
-0184/692 /archive/gps/DGF/station/log/ecec00ecu_20230703.log
+0184/692 /archive/gps/DGF/station/log/ecec00ecu_20260929.log
 0185/692 /archive/gps/DGF/station/log/eesc00bra_20250930.log
 0186/692 /archive/gps/DGF/station/log/eisl00chl_20040326.log
 0187/692 /archive/gps/DGF/station/log/elen00gtm_20150331.log
@@ -711,8 +711,8 @@ Errores: 0
 Review Required: 6 
 Valid XYZ: 686 
 Valid Geodetic: 686 
-Fin: 2026-10-07 17:47:21
-Duracion: 0:02:49.914619
+Fin: 2026-10-13 16:38:24
+Duracion: 0:02:52.273862
 ============================================================
 
 **************************************
@@ -811,7 +811,7 @@ OK
 
 PUBLICACION GITHUB EXITOSA
 
-Fin: 2026-10-07 17:47:33
-Duracion total Proceso: 0:03:01.996513
+Fin: 2026-10-13 16:38:35
+Duracion total Proceso: 0:03:03.269339
 ============================================================
 Actualizando LOG maestro en GitHub...
